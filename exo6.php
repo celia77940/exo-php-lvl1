@@ -9,6 +9,9 @@ echo "\$b vaut $b.<br>";
 echo "\$c vaut $c.<br>";
 
 //Code à faire ici
+$a = $b;
+$b = $c;
+$c = $a;
 
 echo "\$a vaut $a.<br>";
 echo "\$b vaut $b.<br>";

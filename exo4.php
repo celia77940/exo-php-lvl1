@@ -11,8 +11,8 @@
     <p>Vous trouverez après ce paragraphe une div, je veux que vous affichiez dans cette div un paragraphe (balise p) avec le texte suivant dedans : Le PHP permet de générer du HTML</p>
     <div>
     <?php
+    echo "<p>Le PHP permet de générer du HTML</p>";
     //Code à faire ici
-    
     //Ici je dois utiliser la balise de fermeture de PHP car j'alterne entre HTML et PHP
     ?>
     </div>

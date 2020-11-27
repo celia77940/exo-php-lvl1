@@ -4,3 +4,15 @@ $number1 = 8;
 $number2 = 4;
 
 //Code à faire ici
+
+echo $number1 + $number2;
+echo "<br>";
+echo $number1 - $number2;
+echo "<br>";
+echo $number1 * $number2;
+echo "<br>";
+echo $number1 / $number2;
+echo "<br>";
+echo $number1 % $number2;
+
+
